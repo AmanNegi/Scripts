@@ -1,4 +1,4 @@
-## Setup
+## Setup 💻 
 
 > Pre-requisitives: Git, GCC compiler
 
@@ -12,7 +12,7 @@
    `C:\Scripts`.
 7. Add this path to Environment Variables and you are good to go!
 
-## How to use
+## How to use 🤗
 
 Simply go to your terminal, and run the below command:
 
@@ -24,7 +24,7 @@ If, you want to specify an `input.txt` as input, simply pass it's name as the 2n
 
 > NOTE: Both files should be available at same level
 
-# Making it more swift 🐤
+## Making it more swift 🐤
 
 1. Install [Espanso](https://espanso.org/).
 2. Next, open `C:\Users\user\AppData\Roaming\espanso` in VSCode.
@@ -36,3 +36,5 @@ If, you want to specify an `input.txt` as input, simply pass it's name as the 2n
 ```
 
 4. Now simply, type `:++` anywhere and it will be replaced with `sh gplus.sh`.
+
+# 🚀🚀🚀 Support = Star 🚀🚀🚀🚀
