@@ -12,6 +12,12 @@ echo "Compiling file..."
 # Get the filename from the command line argument
 filename=$1
 
+# Check if the output file exists and delete it if it does
+if [ -f "output.exe" ]
+then
+    echo "Deleting existing output file..."
+    rm output.exe
+fi
 # Compile the file using g++
 g++ $filename -o output.exe
 
